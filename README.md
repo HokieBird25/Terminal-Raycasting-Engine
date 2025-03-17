@@ -1,7 +1,6 @@
 This is a raycasting engine that runs entirely in the terminal.
 
 
-
 Hold Ctrl and scroll your mouse wheel to adjust the text size until the render appears correctly.
 
 
